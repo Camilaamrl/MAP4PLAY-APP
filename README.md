@@ -1,4 +1,6 @@
 README.md 
+
+
 🏀 MAP4PLAY: Mapeamento de Quadras Acessíveis
 O MAP4PLAY é uma plataforma desenvolvida para centralizar informações sobre quadras de basquete públicas na cidade de São Paulo, com um diferencial essencial: o foco na acessibilidade para pessoas com deficiência. O projeto visa facilitar o acesso ao esporte, permitindo que usuários encontrem locais adequados para a prática esportiva inclusiva.
 
